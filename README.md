@@ -26,4 +26,14 @@ Example for Raspbian:
 3. In the terminal, type the  command below:<br>
 *wget -O - "https://raw.githubusercontent.com/SNESPi/Super-NESPi-Case/master/retropie_install.sh" | sudo bash*
 
+Example for Recalbox
+---
+1. Make sure the Raspberry Pi connects to the internet
+2. Using the keyboard, press F4 first. And then press ALT-F2 enter termial.<br>
+User:root<br>
+Password:linux
+
+3. In the terminal, type the  command below:<br>
+*wget -O - "https://raw.githubusercontent.com/SNESPi/Super-NESPi-Case/master/recalbox_install.sh" | bash*
+
 ![](/img/image3.jpg)
